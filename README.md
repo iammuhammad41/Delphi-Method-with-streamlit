@@ -73,5 +73,5 @@ pip install pandas numpy scikit-fuzzy scipy statsmodels streamlit matplotlib
 
 This implementation was inspired by and adapted from the **Traditional Fuzzy Delphi Method** by Ihor Markevych.
 Original script:
-[https://github.com/IhorMarkevych/Traditional-Delphi-Method/blob/master/traditional\_delphi.py](https://github.com/IhorMarkevych/Traditional-Delphi-Method/blob/master/traditional_delphi.py)
+[https://github.com/IhorMarkevych/Traditional-Delphi-Method/blob/master/traditional\_delphi.py](https://github.com/IhorMarkevych/Traditional-Delphi-Method/blob/master/traditional_delphi.py), (https://github.com/IhorMarkevych/Consistency-Aggregation-Method) and (https://github.com/IhorMarkevych/DelphiMethod)
 
